@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is João Coutinho, I'm a Cyber-Security Major currently working as a Cloud Security Engineer at NOS Comunicações.
+
 <!--
 **coachtinho/coachtinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
