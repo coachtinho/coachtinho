@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is João Coutinho, I'm a Cyber-Security Major currently working as a Cloud Security Engineer at NOS Comunicações.
+My name is João Coutinho, I'm a Cyber-Security Major currently working as a Cloud Security Engineer at Ten Twenty One.
 
 
 ## 🌐 Socials:
