@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Afonso Coutinho, I'm a Cyber-Security Major currently working as a Cloud Security Engineer at Ten Twenty One.
+My name is Afonso Coutinho, I'm a Cyber-Security Major currently working as a Cyber Security Engineer.
 
 
 ## 🌐 Socials:
